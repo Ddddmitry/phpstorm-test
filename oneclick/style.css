@@ -1,0 +1,97 @@
+body {
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size: 14px;
+}
+
+* {
+    margin: 0;
+}
+
+.best-card {
+    float: none;
+    height: 358px;
+    width: 538px;
+    padding: 10px 15px 20px;
+}
+
+.best-card .title {
+    font-size: 16px;
+    padding-left: 15px;
+    margin: 0 0 15px 0;
+    color: #1979b6;
+
+}
+
+.best-card .image {
+    float: left;
+    display: table-cell;
+    width: 210px;
+    height: 170px;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid #F0F0F0;
+}
+
+.best-card .image img {
+    border: 0;
+}
+
+.best-card .desc {
+    width: 313px;
+    height: 172px;
+    float: right;
+    position: relative;
+}
+
+.best-card .text {
+    float: left;
+    font-size: 12px;
+    color: #777777;
+}
+
+.best-card .text i {
+    color: #6ab400;
+    font-style: normal;
+}
+
+.best-card .order {
+    float: left;
+    color: #777777;
+    font-size: 12px;
+    text-align: center;
+    width: 313px;
+}
+
+.best-card .order b {
+    color: #000000;
+    font-size: 22px;
+}
+
+.best-card .buy {
+    margin: 0px auto;
+    text-align: center;
+    line-height: 31px;
+    width: 213px;
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+    height: 31px;
+    background: url("/bitrix/templates/main/img/order2.png") top left no-repeat;
+}
+#orderBody{
+    text-align: center;
+}
+#orderBody #orderH2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.infoMess{
+    color: red;
+    text-align: justify;
+    font-size: 12px;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}

@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69d29274-bb04-439c-ae92-8b4b98e637e9" name="Default" comment="" />
+    <ignored path="santehnika04.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="santehnika04" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/main/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="3078">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="result_modifier.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section/san_catalog_list2/result_modifier.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section/san_catalog_section/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="144" selection-start="2320" selection-end="2320" vertical-scroll-proportion="0.0" vertical-offset="1284" max-vertical-offset="2160">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="result_modifier.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section/san_catalog_section/result_modifier.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="65" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="2340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="result_modifier.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.element/san_brand_detail/result_modifier.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="52" selection-start="2163" selection-end="2163" vertical-scroll-proportion="0.0" vertical-offset="501" max-vertical-offset="1404">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.element/san_brand_detail/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="3" selection-start="1547" selection-end="1547" vertical-scroll-proportion="0.5958904" vertical-offset="378" max-vertical-offset="1476">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/main/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="493" column="35" selection-start="13657" selection-end="13671" vertical-scroll-proportion="0.0" vertical-offset="8382" max-vertical-offset="9432">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/korzina/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="31" selection-start="1471" selection-end="1471" vertical-scroll-proportion="0.0" vertical-offset="366" max-vertical-offset="1242">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="131" column="18" selection-start="2758" selection-end="2758" vertical-scroll-proportion="0.0" vertical-offset="1793" max-vertical-offset="3348">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="2" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="612">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/re/index.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.element/san_brand_detail/lang/ru/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/main/footer.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/news.detail/san_news_detail/result_modifier.php" />
+        <option value="$PROJECT_DIR$/interesno/.section.php" />
+        <option value="$PROJECT_DIR$/akcii/index.php" />
+        <option value="$PROJECT_DIR$/news/index.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section.list/san_main_catalog_list/result_modifier.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section.list/san_main_catalog_list/lang/ru/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog/san_catalog/sections.php" />
+        <option value="$PROJECT_DIR$/search/.section.php" />
+        <option value="$PROJECT_DIR$/search/index.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/search.page/san_search_page/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/menu/left_vertical/result_modifier.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.top/main_page/result_modifier.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/news.detail/san_news_detail/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.viewed.product/san_viewed_product/result_modifier.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section.list/san_main_catalog_list/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section/san_catalog_section/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/components/bitrix/system.pagenavigation/templates/san_pagination/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/components/bitrix/system.pagenavigation/templates/san_pagination_search/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/breadcrumb/san_bread/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/search.page/san_search_page/lang/ru/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/props.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.basket.basket/san_basket/template.php" />
+        <option value="$PROJECT_DIR$/compare/index.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/news.list/san_news_list/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/main/js/jquery.textPlaceholder.js" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/props_format.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/main/js/jquery.form.js" />
+        <option value="$PROJECT_DIR$/bitrix/templates/main/include/about-comp.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.compare.result/san_rafael/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.element/san_catalog_detail/result_modifier.php" />
+        <option value="$PROJECT_DIR$/oneclick/index.php" />
+        <option value="$PROJECT_DIR$/oneclick/order.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/lang/ru/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.element/san_catalog_detail/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section/san_catalog_list2/template.php" />
+        <option value="$PROJECT_DIR$/kontakty/index.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.top/main_page/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.viewed.product/san_viewed_product/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.smart.filter/san_smart_filter_vertical/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/main/css/style.css" />
+        <option value="$PROJECT_DIR$/bitrix/templates/main/js/main.js" />
+        <option value="$PROJECT_DIR$/korzina/index.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/script.js" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/main/header.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section/san_catalog_section/result_modifier.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.element/san_brand_detail/result_modifier.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.element/san_brand_detail/template.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1919" />
+    <option name="y" value="1076" />
+    <option name="width" value="1922" />
+    <option name="height" value="1085" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Probably bugPHP</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oneclick" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kontakty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="san" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="san" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog.element" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="san" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog.element" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="san_brand_detail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="santehnika04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kofeman.snow-media.ru" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="FullScreen" value="false" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bitrix/components/bitrix/system.pagenavigation/templates" />
+      <recent name="$PROJECT_DIR$/search" />
+      <recent name="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section.list/san_main_catalog_list" />
+      <recent name="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section.list" />
+      <recent name="$PROJECT_DIR$/bitrix/templates/.default/components/san/news.list" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/bitrix/components/san/system.pagenavigation/templates" />
+      <recent name="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section.list" />
+      <recent name="$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.top" />
+      <recent name="$PROJECT_DIR$/callback" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="1a8a749c-fd50-4e72-a665-7a66a2b91db2" server_name="santehnika04">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69d29274-bb04-439c-ae92-8b4b98e637e9" name="Default" comment="" />
+      <created>1395916471079</created>
+      <updated>1395916471079</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1919" y="1076" width="1922" height="1085" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18463181" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24386339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23151125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44801715" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23151125" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18463181" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23585913" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44801715" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bitrix/includes/count_compare.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="903" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section.list/san_main_catalog_list/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="0.04109589" vertical-offset="0" max-vertical-offset="876" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section.list/san_catalog_section_list/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="903" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/components/bitrix/system.pagenavigation/templates/san_pagination_search/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="161" selection-start="724" selection-end="724" vertical-scroll-proportion="0.332533" vertical-offset="65" max-vertical-offset="2412" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/components/bitrix/system.pagenavigation/templates/san_pagination/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="161" selection-start="720" selection-end="720" vertical-scroll-proportion="0.332533" vertical-offset="65" max-vertical-offset="2394" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/breadcrumb/san_bread/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="26" selection-start="681" selection-end="681" vertical-scroll-proportion="-13.333333" vertical-offset="0" max-vertical-offset="576" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/search.page/san_search_page/lang/ru/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="96" selection-start="2253" selection-end="2253" vertical-scroll-proportion="0.396292" vertical-offset="0" max-vertical-offset="863" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/search.page/san_search_page/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="0" selection-start="4874" selection-end="4874" vertical-scroll-proportion="-17.296297" vertical-offset="1945" max-vertical-offset="2808" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/components/san/breadcrumb/templates/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="903" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.basket.basket/san_basket/result_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="903" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.basket.basket/san_basket/basket_items_delay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="28.037037" vertical-offset="757" max-vertical-offset="1620" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.basket.basket/san_basket/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="74" selection-start="2228" selection-end="2228" vertical-scroll-proportion="0.63013697" vertical-offset="564" max-vertical-offset="1656" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.basket.basket/san_basket/basket_items.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.0821917" vertical-offset="2700" max-vertical-offset="8442" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/news.list/san_news_list/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="87" selection-start="1936" selection-end="1936" vertical-scroll-proportion="-15.62963" vertical-offset="82" max-vertical-offset="972" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compare/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="4" selection-start="3086" selection-end="3086" vertical-scroll-proportion="-27.11111" vertical-offset="1374" max-vertical-offset="2250" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/js/jquery.textPlaceholder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="903" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/.parameters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="29" selection-start="365" selection-end="365" vertical-scroll-proportion="0.24657534" vertical-offset="0" max-vertical-offset="876" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/props.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="5" selection-start="1127" selection-end="1127" vertical-scroll-proportion="-0.6818182" vertical-offset="1134" max-vertical-offset="2142" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/person_type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.057187017" vertical-offset="37" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/js/jquery.form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1277" column="0" selection-start="48154" selection-end="48154" vertical-scroll-proportion="0.76419216" vertical-offset="22299" max-vertical-offset="22986" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/props_format.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="78" selection-start="3110" selection-end="3110" vertical-scroll-proportion="0.0" vertical-offset="1602" max-vertical-offset="4788" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/include/stock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.compare.result/san_rafael/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="148" selection-start="1830" selection-end="1830" vertical-scroll-proportion="0.33225283" vertical-offset="605" max-vertical-offset="2574" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/include/about-comp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="90" selection-end="90" vertical-scroll-proportion="0.08181818" vertical-offset="0" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.element/san_catalog_detail/component_epilog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="687" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.element/san_catalog_detail/result_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="127" selection-start="1137" selection-end="1137" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oneclick/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="20" selection-start="2563" selection-end="2563" vertical-scroll-proportion="0.3181818" vertical-offset="942" max-vertical-offset="1764" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oneclick/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="91" selection-end="113" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="2034" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/lang/ru/.parameters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="903" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/lang/ru/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="7" selection-start="3958" selection-end="3958" vertical-scroll-proportion="-5.4814816" vertical-offset="878" max-vertical-offset="1386" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/confirm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="890" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/components/san/sale.order.ajax/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="371" column="16" selection-start="12394" selection-end="12394" vertical-scroll-proportion="-51.962963" vertical-offset="5275" max-vertical-offset="6840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.element/san_catalog_detail/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="45" selection-start="4347" selection-end="4347" vertical-scroll-proportion="-15.296296" vertical-offset="1783" max-vertical-offset="2646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.top/main_page/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="124" selection-start="951" selection-end="951" vertical-scroll-proportion="-10.296296" vertical-offset="10" max-vertical-offset="1656" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.viewed.product/san_viewed_product/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="109" selection-start="474" selection-end="474" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="666" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section/san_catalog_list2/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="97" selection-start="1295" selection-end="1295" vertical-scroll-proportion="-17.296297" vertical-offset="37" max-vertical-offset="1548" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2709" column="20" selection-start="47426" selection-end="47426" vertical-scroll-proportion="0.0" vertical-offset="48021" max-vertical-offset="48942" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontakty/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="37" selection-start="248" selection-end="248" vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="468" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.smart.filter/san_smart_filter_vertical/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="165" column="38" selection-start="7633" selection-end="7633" vertical-scroll-proportion="-22.555555" vertical-offset="1263" max-vertical-offset="2448" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="493" column="35" selection-start="13657" selection-end="13671" vertical-scroll-proportion="0.0" vertical-offset="8382" max-vertical-offset="9432">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/components/san/sale.order.ajax/component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1642" column="63" selection-start="59587" selection-end="59587" vertical-scroll-proportion="0.5052144" vertical-offset="29120" max-vertical-offset="43992" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/components/san/sale.order.ajax/lang/ru/component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="15" selection-start="2278" selection-end="2294" vertical-scroll-proportion="0.5273973" vertical-offset="150" max-vertical-offset="1026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/korzina/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="31" selection-start="1471" selection-end="1471" vertical-scroll-proportion="0.0" vertical-offset="366" max-vertical-offset="1242">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="2" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/sale.order.ajax/san_order_ajax/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="18" selection-start="2758" selection-end="2758" vertical-scroll-proportion="0.0" vertical-offset="1793" max-vertical-offset="3348">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/main/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="3078">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section/san_catalog_list2/result_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="684">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section/san_catalog_section/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="144" selection-start="2320" selection-end="2320" vertical-scroll-proportion="0.0" vertical-offset="1284" max-vertical-offset="2160">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.section/san_catalog_section/result_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="65" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="2340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.element/san_brand_detail/result_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="52" selection-start="2163" selection-end="2163" vertical-scroll-proportion="0.0" vertical-offset="501" max-vertical-offset="1404">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/san/catalog.element/san_brand_detail/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="3" selection-start="1547" selection-end="1547" vertical-scroll-proportion="0.5958904" vertical-offset="378" max-vertical-offset="1476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
